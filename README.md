@@ -9,3 +9,7 @@ The main purpose of our project is to enhance some issues in security camera. As
 This can be done by using a raspberry pi and a pi camera. The source code is implemented in raspberry pi and a pi camera is attached to it. When a human face is detected the pi camera takes a screenshot and it gives an alarm to the owner of the shop. The number of persons and time is noted at the time of incident.
 
 The source code language used is python and the algorithm followed is Open CV.
+
+
+https://user-images.githubusercontent.com/112577214/194923526-d90403cd-07a0-41b7-a0f4-98cc9f6898ba.mp4
+
